@@ -1,0 +1,14 @@
+/* main2 */
+
+
+body {
+    background: aqua;
+}
+
+ul li {
+    text-transform: uppercase;
+}
+
+p.first a {
+    color: yellow;
+}

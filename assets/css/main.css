@@ -1,0 +1,22 @@
+/* main */
+
+
+/*body {
+    background: cadetblue;
+} */
+
+
+.navbar-brand{
+    color: blue;
+    font-size: xx-large;
+}
+#p1 {
+    font-size: 3em;
+    color: gold;
+}
+ul li {
+    text-transform: uppercase;
+}
+p.first a {
+    color: yellow;
+}
