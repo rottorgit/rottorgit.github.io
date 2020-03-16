@@ -9,6 +9,4 @@ ul li {
     text-transform: uppercase;
 }
 
-p.first a {
-    color: yellow;
-}
+p.first a {color: red;}
