@@ -1,22 +1,44 @@
-/* main */
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap&subset=cyrillic,cyrillic-ext";
 
+@import url(../fontawesome/css/all.css);
+html {
+    font-size: 16px;
+}
+body {
+    font: 1em / 1.5;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+}
 
-/*body {
-    background: cadetblue;
-} */
+.text-left {
+    text-align: left;
+    text-align: right;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
 
+ .navbar-nav {
+     display: inline-block;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    text-align: center;
+}
 
-.navbar-brand{
-    color: blue;
-    font-size: xx-large;
-}
-#p1 {
-    font-size: 3em;
-    color: gold;
-}
-ul li {
-    text-transform: uppercase;
-}
-p.first a {
-    color: yellow;
-}
+ .navbar-nav .nav-item {
+     display: inline-block;
+     padding-right: 1em;
+     padding-left: 1em;
+ }
+ .navbar {
+     display: block;
+     padding: 0.8rem 1rem;
+     line-height: 2.5rem;
+     font-size: 1.25rem;
+     background-color: black;
+ }
+
