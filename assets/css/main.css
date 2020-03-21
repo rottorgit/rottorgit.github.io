@@ -78,3 +78,11 @@ a {
  .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
      color: rgba(222, 222, 22, 0,9);
  }
+.card {
+    display: block;
+    width: 300px;
+    height: 250px;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
