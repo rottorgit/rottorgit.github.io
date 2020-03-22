@@ -47,9 +47,12 @@ a {
      font-size: 1.25rem;
      background-color: rgba(15, 1, 48, 0.9);
  }
- .navbar-wrapper {
+ .form-inline {
      display: inline-block;
-     line-height: inherit;
+ }
+ /*.navbar-wrapper {
+     display: inline-block;
+     line-height: inherit;*/
  }
 
  .navbar {
